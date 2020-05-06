@@ -1,4 +1,4 @@
-package br.sp.etec.seetec;
+package br.sp.gov.etec.seetec;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
